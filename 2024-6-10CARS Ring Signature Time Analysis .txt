@@ -1,0 +1,5 @@
+Power of 2	Sign	Verify	Confirmation	Trace1	Disavowal	Trace2
+1	68	5937	52	102	103	
+2	128	6436	62	204	245	
+3	174	7636	48	377	392	
+4	265	10737	51	757	800	
